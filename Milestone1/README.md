@@ -62,20 +62,40 @@ You can organize your project submission file by structured feature components. 
 ```markdown
 ### 🖼️ Core Interface References
 
+### 🖼️ Core Interface References
+
 #### 1. Identity Gateways & Verification Pipelines
+
 * **Account Provisioning:** Dynamic structural setup validation.
+  <a href="./Milestone1/screenshots/Create_Account.png" target="_blank">👉 Click here to view Create Account Snapshot</a>
+  
   ![Create Account](./Milestone1/screenshots/Create_Account.png)
+
 * **Central Login Gateway:** Core user validation checkpoint.
+  <a href="./Milestone1/screenshots/Login_page.png" target="_blank">👉 Click here to view Login Page Snapshot</a>
+  
   ![Login Page](./Milestone1/screenshots/Login_page.png)
+
 * **Password Recovery Interface:** Route split configuration panel.
+  <a href="./Milestone1/screenshots/Forgot_Password.png" target="_blank">👉 Click here to view Forgot Password Snapshot</a>
+  
   ![Forgot Password](./Milestone1/screenshots/Forgot_Password.png)
+
 * **Secure OTP Verification:** Multi-factor programmatic token synchronization.
+  <a href="./Milestone1/screenshots/otp.png" target="_blank">👉 Click here to view OTP System Snapshot</a>
+  
   ![OTP System](./Milestone1/screenshots/otp.png)
 
 #### 2. Operations & Advanced Reporting Panels
+
 * **Main KPI Dashboard View:** System indicator summary panel.
+  <a href="./Milestone1/screenshots/Home_Dashboard.png" target="_blank">👉 Click here to view Home Dashboard Snapshot</a>
+  
   ![Home Dashboard](./Milestone1/screenshots/Home_Dashboard.png)
+
 * **Interactive Business Analytics:** Custom Plotly performance monitoring.
+  <a href="./Milestone1/screenshots/Dashboard.png" target="_blank">👉 Click here to view Dashboard Layout Snapshot</a>
+  
   ![Dashboard Layout](./Milestone1/screenshots/Dashboard.png)
 
 ```
