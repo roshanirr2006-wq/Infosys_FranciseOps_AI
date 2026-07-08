@@ -60,9 +60,6 @@ The application is an immersive, multi-tiered **Franchise Portal** built with **
 You can organize your project submission file by structured feature components. The relative links below map directly to your local file pathing variables:
 
 ```markdown
-### 🖼️ Core Interface References
-
-### 🖼️ Core Interface References
 
 ### 🖼️ Core Interface References
 
